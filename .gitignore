@@ -11,7 +11,7 @@ coverage
 
 # Transpiled files
 build/
-dist/
+dist
 
 # VS Code
 .vscode
@@ -31,3 +31,6 @@ dist/
 
 # Env
 .env
+
+# Build
+*.tsbuildinfo
